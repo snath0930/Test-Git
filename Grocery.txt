@@ -2,6 +2,7 @@ The grocery list
 
 Bread
 Egg
+Spreads
 Butter
 Cream
 Jam
